@@ -1,0 +1,7 @@
+{
+  "extends": "@mullerstd/tsconfig",
+  "compilerOptions": {
+    "baseUrl": "."
+  },
+  "include": ["**/*.ts"]
+}
